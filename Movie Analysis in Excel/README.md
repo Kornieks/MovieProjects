@@ -1,6 +1,6 @@
 # Movie Analysis in Excel
 
-## Table of Content
+### Table of Content
 1. [Problem Statement](#problem-statement)
 2. [Data Source](#data-source)
 3. [Tools](#tools)
