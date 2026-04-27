@@ -92,7 +92,8 @@ in
 
 
   
-- In general, **July is the most appealing month** based on Box Office Revenue, especially for Adventure, Action, Comedy genre. Horror movies generated best sales in June. *It is best to use the most recent year for each genre as the primary reference point as it represent recent trends. I would also recommend analyzing average movie revenue instead of total revenue, as total revenue can be sometimes heavily influenced by the number of movies in each genre.*
+- In general, **July is the most appealing month** based on Box Office Revenue, especially for Adventure, Action, Comedy genre. Horror movies generated best sales in June.
+  *It is best to use the most recent year for each genre as the primary reference point as it represent recent trends. I would also recommend taking into average movie revenue instead of total revenue, as total revenue can be sometimes heavily influenced by the number of movies in each genre.*
 
 <img width="998" height="372" alt="image" src="https://github.com/user-attachments/assets/af9f4b2a-234f-4991-ac4e-6c17f777f857" />
   
