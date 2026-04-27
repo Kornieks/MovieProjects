@@ -1,15 +1,12 @@
-# 
+# Movie Analysis in Excel
 
 ## Table of Content
-[Problem Statement](#problem-statement)
-
-[Data Source](#data-source)
-
-[Tools](#tools)
-
-[Dashboard](#dashboard)
-
-[Main Insights](#main-insights)
+1. [Problem Statement](#problem-statement)
+2. [Data Source](#data-source)
+3. [Tools](#tools)
+4. [Dashboard](#dashboard)
+5. [M Code](#m-code)
+6. [Main Insights](#main-insights)
 
 ### Problem Statement 
 
