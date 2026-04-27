@@ -32,7 +32,7 @@ The primary dataset used for this analysis is the "Movie Data.xlsx" file, contai
 
 ### Dashboard
 
-<img width="1164" height="1220" alt="image" src="https://github.com/user-attachments/assets/08e40475-ee99-4ace-847a-9e0fc4715509" />
+<img width="598" height="597" alt="Screenshot 2026-04-27 at 14 42 14" src="https://github.com/user-attachments/assets/d6e70da9-6776-48ff-a1e8-af60f25f8098" />
 
 
 ### M Code
@@ -83,24 +83,24 @@ in
 
 - Even though **Action is the leading genre in terms of total revenue**, suggesting both strong popularity and high production volume, **Adventure movies generate, on average, 25% higher revenue per film that Action**. However, in 2016, their values are almost even.
   
-<img width="574" height="448" alt="image" src="https://github.com/user-attachments/assets/cdabde98-4cc5-44ff-a183-d8522aaf8ecc" />
+<img width="474" height="348" alt="image" src="https://github.com/user-attachments/assets/cdabde98-4cc5-44ff-a183-d8522aaf8ecc" />
 
 
 - **Horror movies often rank among the top genres by ROI across multiple years** (though this should be interpreted with caution, since box office revenue is most probably only one part of a film’s total revenue).
   
-<img width="658" height="272" alt="image" src="https://github.com/user-attachments/assets/1f5c0ee6-38be-480d-a9ef-948825d7b931" />
+<img width="558" height="192" alt="image" src="https://github.com/user-attachments/assets/1f5c0ee6-38be-480d-a9ef-948825d7b931" />
 
 
   
 - In general, **July is the most appealing month** based on Box Office Revenue, especially for Adventure, Action, Comedy genre. Horror movies generated best sales in June. *It is best to use the most recent year for each genre as the primary reference point as it represent recent trends. I would also recommend analyzing average movie revenue instead of total revenue, as total revenue can be sometimes heavily influenced by the number of movies in each genre.*
 
-  <img width="1298" height="572" alt="image" src="https://github.com/user-attachments/assets/af9f4b2a-234f-4991-ac4e-6c17f777f857" />
+<img width="998" height="372" alt="image" src="https://github.com/user-attachments/assets/af9f4b2a-234f-4991-ac4e-6c17f777f857" />
   
 
   
 - Some actors may be popular and appear in many films. I would suggest evaluating a particular actor based on the average success of the films they appear in.
   
-- <img width="498" height="430" alt="image" src="https://github.com/user-attachments/assets/063c3b8c-17ce-4bc0-ab4e-136ec8c21f33" />
+- <img width="398" height="330" alt="image" src="https://github.com/user-attachments/assets/063c3b8c-17ce-4bc0-ab4e-136ec8c21f33" />
 
 
 
