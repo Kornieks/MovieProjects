@@ -85,14 +85,17 @@ in
   
 <img width="574" height="448" alt="image" src="https://github.com/user-attachments/assets/cdabde98-4cc5-44ff-a183-d8522aaf8ecc" />
 
+
 - **Horror movies often rank among the top genres by ROI across multiple years** (though this should be interpreted with caution, since box office revenue is most probably only one part of a film’s total revenue).
   
 <img width="658" height="272" alt="image" src="https://github.com/user-attachments/assets/1f5c0ee6-38be-480d-a9ef-948825d7b931" />
+
 
   
 - In general, **July is the most appealing month** based on Box Office Revenue, especially for Adventure, Action, Comedy genre. Horror movies generated best sales in June. *It is best to use the most recent year for each genre as the primary reference point as it represent recent trends. I would also recommend analyzing average movie revenue instead of total revenue, as total revenue can be sometimes heavily influenced by the number of movies in each genre.*
 
   <img width="1298" height="572" alt="image" src="https://github.com/user-attachments/assets/af9f4b2a-234f-4991-ac4e-6c17f777f857" />
+  
 
   
 - Some actors may be popular and appear in many films. I would suggest evaluating a particular actor based on the average success of the films they appear in.
