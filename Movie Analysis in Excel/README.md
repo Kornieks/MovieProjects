@@ -32,7 +32,8 @@ The primary dataset used for this analysis is the "Movie Data.xlsx" file, contai
 
 ### Dashboard
 
-<img width="598" height="597" alt="Screenshot 2026-04-27 at 14 42 14" src="https://github.com/user-attachments/assets/d6e70da9-6776-48ff-a1e8-af60f25f8098" />
+<img width="598" height="597" alt="image" src="https://github.com/user-attachments/assets/ed21ddbb-c2d6-4139-b2f3-1d1b76107713" />
+
 
 
 ### M Code
